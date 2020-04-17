@@ -1,6 +1,6 @@
 /**
  * @description 
- * @author 
+ * @author A313155
  */
 rule Rules.RuleSet.Applicant_Rule {
 	attribute {
